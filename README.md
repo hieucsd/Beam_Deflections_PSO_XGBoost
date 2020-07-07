@@ -6,3 +6,4 @@ In order to run the code. The following packages need to be intalled:
 2. [pswarm: Particle swarm optimization (PSO) with constraint support](https://pythonhosted.org/pyswarm/)
 3. [scikit-learn: Machine Learning in Python](https://scikit-learn.org/stable/)
 4. [pandas: Python Data Analysis Library](https://pandas.pydata.org/)
+5. [NumPy](https://numpy.org/)
