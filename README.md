@@ -19,3 +19,5 @@ Post processing
 python PostProcessing_Beam_Deflection_XGB
 ```
 
+## License
+"This project is licensed under the terms of the MIT license."
